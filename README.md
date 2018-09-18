@@ -1,4 +1,4 @@
-1、安装画工工具
+1、安装画图工具
 sudo apt-get install python-matplotlib
 
 2、开启dump采集系统监控数据
